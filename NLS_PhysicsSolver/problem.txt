@@ -1,0 +1,1 @@
+a tennis ball is thrown out a door 28 meters above the ground at an initial velocity of 15.0 m/s and 20.0 degrees above the horizontal. the ball has an initial x-position of 0.0 meters and has a final height of 0.0 meters. How far does the ball move horizontally before it hits the ground?

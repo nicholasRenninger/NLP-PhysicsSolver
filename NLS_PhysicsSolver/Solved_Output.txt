@@ -1,0 +1,2 @@
+The value of final x-position is 41.871881 
+The value of range is 41.871881 
