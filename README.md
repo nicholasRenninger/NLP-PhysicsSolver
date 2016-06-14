@@ -1,5 +1,5 @@
 # NLP-PhysicsSolver
-This is a Matlab project theat does some basic NLP to solve particle kinematics problems.
-Main script is physicsfinalA, problem.txt is where you input the problem, and Solved_output.txt will be where the program writes any solution.
+
+The main script is physicsfinalA. problem.txt is where the problem to be solved is inputed in text format (e.g. "A ball is thrown off of a building with an initial velocity of 36 m/s..."), and Solved_output.txt will be where the program writes any solution.
 =======
 
